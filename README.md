@@ -83,3 +83,6 @@ Your final product will be assessed on the following metrics:
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
+---------------------------------------------------------------------------------------------
+
+* Test web-output: https://key12pat34.github.io/D3_challenge-hw16/project/D3_data_journalism_v1.3/homepage.html
